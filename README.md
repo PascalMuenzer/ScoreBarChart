@@ -7,8 +7,8 @@ The values will be stored in an array.
 At the end the values will be displayed as a series of '#'.
 
 Example:
+Numer of Scores
 
-Value of score No.1:15
+Value of Score No. 1: 15
 
-Value of score No.1:###############
-
+Score 1: ###############

@@ -48,3 +48,5 @@ Then:
 `gcc -o ScoreBarChart ScoreBarChart.c -lcs50`
 
 `./ScoreBarChart`
+
+### Try it!

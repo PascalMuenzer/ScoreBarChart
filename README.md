@@ -1,4 +1,4 @@
-Welcome to the ScoreBarChart wiki!
+This is the ScoreBarChart README.md
 # ScoreBarchart 1.0
 ## Author: https://github.com/PascalMuenzer
 ## IG: https://www.instagram.com/pascal.mzr/

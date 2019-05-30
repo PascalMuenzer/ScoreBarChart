@@ -3,20 +3,21 @@ This is the ScoreBarChart README.md
 ## Author: https://github.com/PascalMuenzer
 ## IG: https://www.instagram.com/pascal.mzr/
 An algorithm to dislpay scores on a CLI (Command Line Interface)
-I coded this algorithm following [Lecture 2 of Harvard University's CS50 2018 course ](https://www.youtube.com/watch?v=ba7e4mksR5I&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi&index=3) on YouTube
+
+I coded this algorithm following [Lecture 2 of Harvard University's CS50 2018 course ](https://www.youtube.com/watch?v=ba7e4mksR5I&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi&index=3) on YouTube.
 ## How does it work ?
-The algorithm uses two libraries.
-[The Harvard CS50 libary for C](https://github.com/cs50/libcs50) and the [C Standard Input/Output Header (stdio.h)](https://www.gnu.org/software/m68hc11/examples/stdio_8h-source.html)
+The algorithm uses two libraries:
+[the Harvard CS50 libary for C](https://github.com/cs50/libcs50) and the [C Standard Input/Output Header (stdio.h).](https://www.gnu.org/software/m68hc11/examples/stdio_8h-source.html)
 
-At first the user gets asked how many Scores to ask for.
+First the user is asked to define the number of scores.
 
-In this case the 2 is entered as the number of scores to display
+As an example, 2 is entered as the number of scores to display.
 
 `Number of Scores: 2`
 
-An array of two elements gets initialized
+An array of two elements gets initialized.
 
-Next the user is asked to enter the values of each element.
+Next the user is asked to enter the value of each element.
 
 
 > Element 0 (called 1 for human readability)
@@ -27,7 +28,7 @@ Next the user is asked to enter the values of each element.
 
 `Value of Score no. 2: 32`
 
-Now that all scores are entered they are dislpayed as a Bar Chart of '#'
+Now all scores are entered and they are dislpayed as a bar chart of '#'.
 
 `Score 1: ############ ` 
 > 12 '#'

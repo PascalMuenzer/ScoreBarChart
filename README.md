@@ -28,7 +28,7 @@ Next the user is asked to enter the value of each element.
 
 `Value of Score no. 2: 32`
 
-Now all scores are entered and they are dislpayed as a bar chart of '#'.
+Now all scores are entered and they are displayed as a bar chart of '#'.
 
 `Score 1: ############ ` 
 > 12 '#'

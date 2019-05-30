@@ -11,7 +11,7 @@ The algorithm uses two libraries:
 
 First the user is asked to define the number of scores.
 
-As an example, 2 is entered as the number of scores to display.
+For example, 2 is entered as the number of scores to display.
 
 `Number of Scores: 2`
 

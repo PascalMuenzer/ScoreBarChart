@@ -2,7 +2,7 @@ This is the ScoreBarChart README.md
 # ScoreBarchart 1.0
 ## Author: https://github.com/PascalMuenzer
 ## IG: https://www.instagram.com/pascal.mzr/
-An algorithm to dislpay scores on a CLI (Command Line Interface)
+An algorithm to display scores on a CLI (Command Line Interface)
 
 I coded this algorithm following [Lecture 2 of Harvard University's CS50 2018 course ](https://www.youtube.com/watch?v=ba7e4mksR5I&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi&index=3) on YouTube.
 ## How does it work ?

@@ -42,12 +42,14 @@ First install [CS50s library](https://github.com/cs50/libcs50)
 
 Then:
 
-`git clone https://github.com/PascalMuenzer/ScoreBarChart.git`
+```bash
+git clone https://github.com/PascalMuenzer/ScoreBarChart.git 
 
-`cd ScoreBarChart`
+cd ScoreBarChart
 
-`gcc -o ScoreBarChart ScoreBarChart.c -lcs50`
+gcc -o ScoreBarChart ScoreBarChart.c -lcs50
 
-`./ScoreBarChart`
+./ScoreBarChart
+```
 
 ### Try it!

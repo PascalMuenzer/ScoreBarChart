@@ -52,7 +52,7 @@ void chart(int score){
         printf("#");
     }
     
-    // print a new line at the of the program
+    // print a new line at the end of the program
     
     printf("\n");
 }

@@ -8,7 +8,7 @@ void chart(int score);
 
 // make a prototype of the average function
 
-void average();
+void average(int scores[], int num_scores);
 
 int main(void)
 {

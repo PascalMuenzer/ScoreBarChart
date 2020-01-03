@@ -6,6 +6,10 @@
 
 void chart(int score);
 
+// make a prototype of the average function
+
+void average();
+
 int main(void)
 {
     // ask user for number of scores and store the number in int num_scores
